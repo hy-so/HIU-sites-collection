@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+  border: 3px solid black;
+}
+
+.contents ul {
+  font: 20px solid black;
+  border: 1px solid black;
+  margin: 25px;
+}
+
+.contents a {
+  text-decoration: none;
+}
+
+.contents a:hover {
+  color: blue;
+}
